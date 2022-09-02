@@ -1,4 +1,4 @@
-﻿# API_Fintech
+﻿# API_FOR_A_PAYMENT_SYSTEM
 * This project aimed at building an API using Nodejs technology for a payment procedure, it used the KNEXJS ORM (Object-relational mapping) to sync with the MYSQL database. The MYSQL database stored the Users data.
 
 # DEPENDENCIES USED:
