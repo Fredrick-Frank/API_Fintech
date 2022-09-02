@@ -19,4 +19,6 @@
 
 ## The JSONWEBTOKEN 
 * This library helped in creating/generating a token for authentication doing a login or registration scenario. 
-* 
+
+## The bcrypts
+* Bcrypt is a popular and trusted method for salt and hashing passwords. You have learned how to use bcrypt's NodeJS library to salt and hash a password before storing it in a database. You have also learned how to use the bcrypt compare function to compare a password to a hash, which is necessary for authentication
