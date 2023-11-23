@@ -1,0 +1,12 @@
+---
+- name: Make user
+  hosts: all
+  tasks:
+   - name: Create users with the YML
+     user:
+      name: User01
+      state: present
+   - name: Install pkg
+     yum:
+      name: httpd
+      state: present
